@@ -647,3 +647,14 @@ footer p {
         justify-content: center;
     }
 }
+
+
+.text-centers {
+   display: flex;
+   text-align: center;
+   align-items: center;
+   justify-content: center;
+   margin-top: -50px;
+   margin-right: 550px;
+   margin-left: 550px;
+}
